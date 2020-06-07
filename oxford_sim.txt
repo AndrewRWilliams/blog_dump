@@ -4,7 +4,7 @@ necessary programs: make for windows, anaconda
 
 Anaconda setup
 - get anaconda distribution 
-- open anaconda prompt
+- open anaconda navigator
 - go to 'environments' tab on left 
 - click 'create' on bottom to create a virtual environment (venv)
 - call it 'oxford simulator' (or whatever you want)
@@ -93,7 +93,7 @@ wincertstore              0.2                      py37_0
 zipp                      3.1.0                    pypi_0    pypi
 zlib                      1.2.11               h62dcd97_4
 	
-- open command prompt
+- open anaconda prompt
 - type: conda activate "oxford simulator" (or whatever name you gave the venv)
 - type: conda update --all
 - navigate to the "../openabm-covid19/test" folder in the command prompt 
